@@ -1,5 +1,7 @@
 # awesome-frontend
 
+[Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
+
 ## css articles
 
 [Diving into](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/) the ::before and ::after Pseudo-Elements
