@@ -1,4 +1,5 @@
 # Awesome frontend
+A collection of my favorite articles
 
 [Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
 
