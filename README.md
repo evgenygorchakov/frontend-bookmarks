@@ -3,9 +3,6 @@ A collection of my favorite articles
 
 [Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
 
-## Components
- - [How to Animate the Details Element Using WAAPI](https://css-tricks.com/how-to-animate-the-details-element-using-waapi/)
-
 ## Css articles
 - [Diving into](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/) the ::before and ::after Pseudo-Elements
 - [How to Map Mouse Position in CSS](https://css-tricks.com/how-to-map-mouse-position-in-css/)
@@ -27,3 +24,6 @@ A collection of my favorite articles
 ## Js books
 - [JavaScript for impatient programmers (ES2021 edition) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/toc.html)
 - [You Don't Know JS Yet (book series) - 2nd Edition by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+
+## Animation
+ - [How to Animate the Details Element Using WAAPI](https://css-tricks.com/how-to-animate-the-details-element-using-waapi/)
