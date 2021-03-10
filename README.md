@@ -25,5 +25,8 @@
 - [JavaScript for impatient programmers (ES2021 edition) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/toc.html)
 - [You Don't Know JS Yet (book series) - 2nd Edition by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 
+## Web components
+- [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
+
 ## Animation
  - [How to Animate the Details Element Using WAAPI](https://css-tricks.com/how-to-animate-the-details-element-using-waapi/)
