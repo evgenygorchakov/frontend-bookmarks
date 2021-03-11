@@ -11,6 +11,7 @@
   - [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
   - [The case for em-based media queries](https://css-tricks.com/weekly-platform-news-focus-rings-donut-scope-ditching-em-units-and-global-privacy-control/#the-case-for-em-based-media-queries)
   - [Material Icons Guide](https://developers.google.com/fonts/docs/material_icons)
+  - [System fonts don’t have to be ugly](https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/)
 
 ## Css art
 - Lynn Fisher’s [A Single Div](https://a.singlediv.com/) gallery has some impressive examples. Check the CSS and you’ll see a lot of ::before and ::after pseudo-elements.
