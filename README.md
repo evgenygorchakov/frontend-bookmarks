@@ -2,6 +2,9 @@
 
 [Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
 
+## Images
+- [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/?utm_source=lighthouse&utm_medium=unknown#images-without-dimensions)
+
 ## Css articles
 - [Diving into](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/) the ::before and ::after Pseudo-Elements
 - [How to Map Mouse Position in CSS](https://css-tricks.com/how-to-map-mouse-position-in-css/)
