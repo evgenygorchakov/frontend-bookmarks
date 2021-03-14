@@ -5,6 +5,7 @@
 ## Images
 - [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/?utm_source=lighthouse&utm_medium=unknown#images-without-dimensions)
 - [Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/)
+- [Using WebP Images](https://css-tricks.com/using-webp-images/)
 
 ## Css articles
 - [Diving into](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/) the ::before and ::after Pseudo-Elements
