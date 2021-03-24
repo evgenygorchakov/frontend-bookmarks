@@ -8,6 +8,9 @@
 - [Using WebP Images](https://css-tricks.com/using-webp-images/)
 - [ratiobuddy - calc aspect-ratio](https://ratiobuddy.com/)
 
+## Video
+- [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/)
+
 ## Css articles
 - [Diving into](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/) the ::before and ::after Pseudo-Elements
 - [How to Map Mouse Position in CSS](https://css-tricks.com/how-to-map-mouse-position-in-css/)
