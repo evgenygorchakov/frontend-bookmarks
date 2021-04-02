@@ -14,6 +14,7 @@
 ## Css articles
 - [Diving into](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/) the ::before and ::after Pseudo-Elements
 - [How to Map Mouse Position in CSS](https://css-tricks.com/how-to-map-mouse-position-in-css/)
+- [Как делать подчёркивание для ссылок](https://css-irl.info/animating-underlines/)
 
 - ### Fonts
   - [REM vs EM – The Great Debate](https://zellwk.com/blog/rem-vs-em/)
