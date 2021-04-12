@@ -10,6 +10,7 @@
 
 ## Video
 - [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/)
+- [Easy video converting for the web](https://mefody.dev/chunks/ffmpeg-alias/)
 
 ## Css articles
 - [Diving into](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/) the ::before and ::after Pseudo-Elements
