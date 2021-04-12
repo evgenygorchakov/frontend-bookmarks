@@ -52,3 +52,4 @@
   - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 ## Blogs
   - [JakeArchibald](https://jakearchibald.com/)
+  - [Дока](https://y-doka.site/)
