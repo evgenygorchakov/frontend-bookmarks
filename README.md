@@ -28,6 +28,7 @@
 - Astrit Malsija’s [700+ CSS Icons](https://css.gg/app)
 
 ## Js articles
+- [Современный JavaScript стандартов ES2015/16](https://babeljs.io/docs/en/learn)
 - [2020 JavaScript Rising Stars](https://risingstars.js.org/2020/ru#section-learning)
 - [Web Almanac](https://almanac.httparchive.org/en/2020/javascript)
 - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
