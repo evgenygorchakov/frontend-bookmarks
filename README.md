@@ -51,5 +51,6 @@
 ## Debug
   - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 ## Blogs
+  - [Список блогов с репозитория веб стандартов](https://github.com/web-standards-ru/indie-list)
   - [JakeArchibald](https://jakearchibald.com/)
   - [Дока](https://y-doka.site/)
