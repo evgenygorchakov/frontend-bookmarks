@@ -54,3 +54,5 @@
   - [Список блогов с репозитория веб стандартов](https://github.com/web-standards-ru/indie-list)
   - [JakeArchibald](https://jakearchibald.com/)
   - [Дока](https://y-doka.site/)
+## Other
+  - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
