@@ -2,6 +2,10 @@
 
 [Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
 
+## HTML
+- [Мануэль Матузович делится шаблоном, с которого начинает вёрстку новых страниц, объясняя каждую его строчку.
+](https://www.matuzo.at/blog/html-boilerplate/)
+
 ## Images
 - [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/?utm_source=lighthouse&utm_medium=unknown#images-without-dimensions)
 - [Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/)
