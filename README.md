@@ -50,6 +50,9 @@
 ## Animation
  - [How to Animate the Details Element Using WAAPI](https://css-tricks.com/how-to-animate-the-details-element-using-waapi/)
 
+## Perfomance
+ - [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/)
+
 ## A11y
   - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 
@@ -60,5 +63,5 @@
   - [JakeArchibald](https://jakearchibald.com/)
   - [Дока](https://y-doka.site/)
   - [Flavio Copes](https://flaviocopes.com/)
-## Other
+## Mails
   - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
