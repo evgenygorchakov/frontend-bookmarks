@@ -63,5 +63,6 @@
   - [JakeArchibald](https://jakearchibald.com/)
   - [Дока](https://y-doka.site/)
   - [Flavio Copes](https://flaviocopes.com/)
+  - https://vanillajsguides.com/
 ## Mails
   - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
