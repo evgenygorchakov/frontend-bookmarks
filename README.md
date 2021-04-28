@@ -52,6 +52,7 @@
 
 ## Perfomance
  - [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/)
+ - [Profiling site speed with the Chrome DevTools Performance tab](https://www.debugbear.com/blog/devtools-performance)
 
 ## A11y
   - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
