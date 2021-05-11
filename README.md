@@ -69,3 +69,4 @@
   - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
 ## Other
   - [Collection of common CSS mistakes, and how to fix them](https://csshell.dev/)
+  - [Размеры разных девайсов](https://screensiz.es/)
