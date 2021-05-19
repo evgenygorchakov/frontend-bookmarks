@@ -28,6 +28,7 @@
   - [Material Icons Guide](https://developers.google.com/fonts/docs/material_icons)
   - [System fonts don’t have to be ugly](https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/)
   - [Нестандартные шрифты: как подключить и оптимизировать](https://habr.com/ru/company/htmlacademy/blog/552388/)
+  - [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/)
 
 ## Css art
 - Lynn Fisher’s [A Single Div](https://a.singlediv.com/) gallery has some impressive examples. Check the CSS and you’ll see a lot of ::before and ::after pseudo-elements.
