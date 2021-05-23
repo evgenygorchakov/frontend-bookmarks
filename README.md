@@ -71,3 +71,4 @@
 ## Other
   - [Collection of common CSS mistakes, and how to fix them](https://csshell.dev/)
   - [Размеры разных девайсов](https://screensiz.es/)
+  - [Hexlet - Рекомендуемые книги](https://ru.hexlet.io/pages/recommended-books)
