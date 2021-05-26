@@ -40,6 +40,7 @@
 - [Web Almanac](https://almanac.httparchive.org/en/2020/javascript)
 - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - [What is the meaning of this?](https://web.dev/javascript-this/)
+- [Learn about the DOM Event system through exploration](https://domevents.dev/)
 
 ## Js books
 - [JavaScript for impatient programmers (ES2021 edition) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/toc.html)
