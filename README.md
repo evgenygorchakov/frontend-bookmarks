@@ -1,4 +1,4 @@
-# Awesome frontend
+# frontend bookmarks
 
 [Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
 
@@ -34,7 +34,7 @@
 - Lynn Fisher’s [A Single Div](https://a.singlediv.com/) gallery has some impressive examples. Check the CSS and you’ll see a lot of ::before and ::after pseudo-elements.
 - Astrit Malsija’s [700+ CSS Icons](https://css.gg/app)
 
-## Js articles
+## JS Articles
 - [Современный JavaScript стандартов ES2015/16](https://babeljs.io/docs/en/learn)
 - [2020 JavaScript Rising Stars](https://risingstars.js.org/2020/ru#section-learning)
 - [Web Almanac](https://almanac.httparchive.org/en/2020/javascript)
@@ -42,9 +42,12 @@
 - [What is the meaning of this?](https://web.dev/javascript-this/)
 - [Learn about the DOM Event system through exploration](https://domevents.dev/)
 
-## Js books
+## JS Books
 - [JavaScript for impatient programmers (ES2021 edition) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/toc.html)
 - [You Don't Know JS Yet (book series) - 2nd Edition by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+
+## JS Courses
+ - [wesbos.com](https://wesbos.com/javascript)
 
 ## Web components
 - [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
