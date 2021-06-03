@@ -29,6 +29,7 @@
   - [System fonts don’t have to be ugly](https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/)
   - [Нестандартные шрифты: как подключить и оптимизировать](https://habr.com/ru/company/htmlacademy/blog/552388/)
   - [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/)
+  - [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 
 ## Css art
 - Lynn Fisher’s [A Single Div](https://a.singlediv.com/) gallery has some impressive examples. Check the CSS and you’ll see a lot of ::before and ::after pseudo-elements.
@@ -62,18 +63,23 @@
 
 ## A11y
   - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+
 ## Testing
   - [CSS Tricks: Front-End Testing is For Everyone](https://css-tricks.com/front-end-testing-is-for-everyone/)
+
 ## Debug
   - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
 ## Blogs
   - [Список блогов с репозитория веб стандартов](https://github.com/web-standards-ru/indie-list)
   - [JakeArchibald](https://jakearchibald.com/)
   - [Дока](https://y-doka.site/)
   - [Flavio Copes](https://flaviocopes.com/)
   - https://vanillajsguides.com/
+
 ## Mails
   - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
+
 ## Other
   - [Collection of common CSS mistakes, and how to fix them](https://csshell.dev/)
   - [Размеры разных девайсов](https://screensiz.es/)
