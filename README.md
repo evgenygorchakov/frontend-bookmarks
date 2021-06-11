@@ -30,6 +30,7 @@
   - [Нестандартные шрифты: как подключить и оптимизировать](https://habr.com/ru/company/htmlacademy/blog/552388/)
   - [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/)
   - [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
+  - [Best practices for fonts](https://web.dev/font-best-practices/)
 
 ## Css art
 - Lynn Fisher’s [A Single Div](https://a.singlediv.com/) gallery has some impressive examples. Check the CSS and you’ll see a lot of ::before and ::after pseudo-elements.
