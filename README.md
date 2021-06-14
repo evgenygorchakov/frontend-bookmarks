@@ -4,7 +4,7 @@
 
 ## Specs
 
-- (CSS Indexes)[https://drafts.csswg.org/indexes/]
+- [CSS Indexes](https://drafts.csswg.org/indexes/)
 
 ## HTML
 - [Мануэль Матузович делится шаблоном, с которого начинает вёрстку новых страниц, объясняя каждую его строчку.
