@@ -54,6 +54,7 @@
 
 ## JS Courses
  - [wesbos.com](https://wesbos.com/javascript)
+ - [learnjavascript.online](https://learnjavascript.online/)
 
 ## Web components
 - [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
