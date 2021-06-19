@@ -47,6 +47,7 @@
 - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - [What is the meaning of this?](https://web.dev/javascript-this/)
 - [Learn about the DOM Event system through exploration](https://domevents.dev/)
+- [Руководство по ES2015 от Babel.](https://babeljs.io/docs/en/learn)
 
 ## JS Books
 - [JavaScript for impatient programmers (ES2021 edition) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/toc.html)
