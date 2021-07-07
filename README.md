@@ -24,6 +24,7 @@
 - [Diving into](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/) the ::before and ::after Pseudo-Elements
 - [How to Map Mouse Position in CSS](https://css-tricks.com/how-to-map-mouse-position-in-css/)
 - [Как делать подчёркивание для ссылок](https://css-irl.info/animating-underlines/)
+- RTL:WTF. Мориэль Шоттлендер собрал [сайт](https://rtl.wtf/), который позволяет получить опыт пользования приложениями, не оптимизированными под RTL-языки, носителями таких языков, и делится способами решения некоторых проблем подобных сайтов.
 
 - ### Fonts
   - [REM vs EM – The Great Debate](https://zellwk.com/blog/rem-vs-em/)
