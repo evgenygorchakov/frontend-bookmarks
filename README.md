@@ -48,6 +48,7 @@
 - [What is the meaning of this?](https://web.dev/javascript-this/)
 - [Learn about the DOM Event system through exploration](https://domevents.dev/)
 - [Руководство по ES2015 от Babel.](https://babeljs.io/docs/en/learn)
+- [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 
 ## JS Books
 - [JavaScript for impatient programmers (ES2021 edition) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/toc.html)
