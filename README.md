@@ -25,6 +25,7 @@
 - [How to Map Mouse Position in CSS](https://css-tricks.com/how-to-map-mouse-position-in-css/)
 - [Как делать подчёркивание для ссылок](https://css-irl.info/animating-underlines/)
 - RTL:WTF. Мориэль Шоттлендер собрал [сайт](https://rtl.wtf/), который позволяет получить опыт пользования приложениями, не оптимизированными под RTL-языки, носителями таких языков, и делится способами решения некоторых проблем подобных сайтов.
+- [Practical Uses of CSS Math Functions: calc, clamp, min, max](https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max/)
 
 - ### Fonts
   - [REM vs EM – The Great Debate](https://zellwk.com/blog/rem-vs-em/)
@@ -49,6 +50,7 @@
 - [Learn about the DOM Event system through exploration](https://domevents.dev/)
 - [Руководство по ES2015 от Babel.](https://babeljs.io/docs/en/learn)
 - [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
+- [How MDN’s autocomplete search works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 
 ## JS Books
 - [JavaScript for impatient programmers (ES2021 edition) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/toc.html)
@@ -57,6 +59,9 @@
 ## JS Courses
  - [wesbos.com](https://wesbos.com/javascript)
  - [learnjavascript.online](https://learnjavascript.online/)
+
+## Browser
+ - [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)
 
 ## Web components
 - [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
