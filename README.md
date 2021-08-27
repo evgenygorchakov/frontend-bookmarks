@@ -86,6 +86,7 @@
 ## Blogs
   - [Список блогов с репозитория веб стандартов](https://github.com/web-standards-ru/indie-list)
   - [JakeArchibald](https://jakearchibald.com/)
+  - [Zach Leatherman](https://www.zachleat.com/)
   - [Дока](https://y-doka.site/)
   - [Flavio Copes](https://flaviocopes.com/)
   - https://vanillajsguides.com/
