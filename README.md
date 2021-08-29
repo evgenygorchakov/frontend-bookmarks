@@ -15,6 +15,7 @@
 - [Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/)
 - [Using WebP Images](https://css-tricks.com/using-webp-images/)
 - [ratiobuddy - calc aspect-ratio](https://ratiobuddy.com/)
+- [Responsive Image Breakpoints Generator](https://responsivebreakpoints.com/)
 
 ## Video
 - [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/)
