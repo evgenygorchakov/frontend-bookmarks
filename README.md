@@ -10,6 +10,9 @@
 - [Мануэль Матузович делится шаблоном, с которого начинает вёрстку новых страниц, объясняя каждую его строчку.
 ](https://www.matuzo.at/blog/html-boilerplate/)
 
+## favicons
+ - [We Analyzed 425,909 Favicons](https://iconmap.io/blog)
+
 ## Images
 - [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/?utm_source=lighthouse&utm_medium=unknown#images-without-dimensions)
 - [Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/)
