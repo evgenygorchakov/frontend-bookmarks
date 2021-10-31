@@ -56,6 +56,10 @@
 - [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 - [How MDN’s autocomplete search works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 
+## ECMA Spec
+- [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
+- [Understanding the ECMAScript spec, part 1](https://v8.dev/blog/understanding-ecmascript-part-1)
+
 ## JS Books
 - [JavaScript for impatient programmers (ES2021 edition) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/toc.html)
 - [You Don't Know JS Yet (book series) - 2nd Edition by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
