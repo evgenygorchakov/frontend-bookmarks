@@ -56,6 +56,9 @@
 - [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 - [How MDN’s autocomplete search works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
 
+### Three.js 
+ - [Creating 3D Characters in Three.js](https://tympanus.net/codrops/2021/10/04/creating-3d-characters-in-three-js/)
+
 ## ECMA Spec
 - [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
 - [Understanding the ECMAScript spec, part 1](https://v8.dev/blog/understanding-ecmascript-part-1)
