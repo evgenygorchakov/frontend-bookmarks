@@ -72,6 +72,10 @@
  - [wesbos.com](https://wesbos.com/javascript)
  - [learnjavascript.online](https://learnjavascript.online/)
 
+## Typescript
+ - [Etsy’s Journey to TypeScript](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
+ - [The essentials of TypeScript](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html)
+
 ## Browser
  - [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)
 
