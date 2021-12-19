@@ -60,7 +60,7 @@
  - [Creating 3D Characters in Three.js](https://tympanus.net/codrops/2021/10/04/creating-3d-characters-in-three-js/)
 
 ## ECMA Spec
-- [https://www.proposals.es/](proposals.es)
+- [https://www.proposals.es/](https://www.proposals.es/)
 - [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
 - [Understanding the ECMAScript spec, part 1](https://v8.dev/blog/understanding-ecmascript-part-1)
 
