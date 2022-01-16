@@ -55,6 +55,7 @@
 - [Руководство по ES2015 от Babel.](https://babeljs.io/docs/en/learn)
 - [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 - [How MDN’s autocomplete search works](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
 ### Three.js 
  - [Creating 3D Characters in Three.js](https://tympanus.net/codrops/2021/10/04/creating-3d-characters-in-three-js/)
