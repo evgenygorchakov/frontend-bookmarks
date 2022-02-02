@@ -86,6 +86,7 @@
 ## Animation
  - [How to Animate the Details Element Using WAAPI](https://css-tricks.com/how-to-animate-the-details-element-using-waapi/)
  - [Easing Functions Cheat Sheet](https://easings.net/)
+ - [csstriggers.com](https://csstriggers.com/)
 
 ## Perfomance
  - [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/)
