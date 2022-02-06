@@ -77,7 +77,8 @@
  - [Etsy’s Journey to TypeScript](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
  - [The essentials of TypeScript](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html)
 
-## [patterns.dev](https://www.patterns.dev/)
+## Patterns
+ - [patterns.dev](https://www.patterns.dev/)
 
 ## Browser
  - [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)
