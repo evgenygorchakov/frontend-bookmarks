@@ -31,7 +31,7 @@
 - RTL:WTF. Мориэль Шоттлендер собрал [сайт](https://rtl.wtf/), который позволяет получить опыт пользования приложениями, не оптимизированными под RTL-языки, носителями таких языков, и делится способами решения некоторых проблем подобных сайтов.
 - [Practical Uses of CSS Math Functions: calc, clamp, min, max](https://moderncss.dev/practical-uses-of-css-math-functions-calc-clamp-min-max/)
 
-- ### Fonts
+## Fonts
   - [REM vs EM – The Great Debate](https://zellwk.com/blog/rem-vs-em/)
   - [PX, EM or REM Media Queries?](https://zellwk.com/blog/media-query-units/)
   - [The case for em-based media queries](https://css-tricks.com/weekly-platform-news-focus-rings-donut-scope-ditching-em-units-and-global-privacy-control/#the-case-for-em-based-media-queries)
@@ -82,6 +82,8 @@
 
 ## Browser
  - [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)
+## Git
+ - [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/#%d1%81%d0%bf%d0%b5%d1%86%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d1%8f)
 
 ## Web components
 - [Web Components Are Easier Than You Think](https://css-tricks.com/web-components-are-easier-than-you-think/)
