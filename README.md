@@ -33,8 +33,9 @@
 - [Etsy’s Journey to TypeScript](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
 - [The essentials of TypeScript](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html)
 
-## favicons
+## Favicons
 - [We Analyzed 425,909 Favicons](https://iconmap.io/blog)
+- [How to Favicon in 2022: Six files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 
 ## Images
 - [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/?utm_source=lighthouse&utm_medium=unknown#images-without-dimensions)
@@ -44,7 +45,7 @@
 - [Responsive Image Breakpoints Generator](https://responsivebreakpoints.com/)
 
 ## Mails
-  - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
+- [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
 
 ## Video
 - [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/)
@@ -74,7 +75,7 @@
 - [You Don't Know JS Yet (book series) - 2nd Edition by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 
 ## Patterns
- - [patterns.dev](https://www.patterns.dev/)
+- [patterns.dev](https://www.patterns.dev/)
 
 ## Browser
 - [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)
@@ -94,34 +95,34 @@
 - [csstriggers.com](https://csstriggers.com/)
 
 ## Animation Perfomance
- - [Motion One blog: Performance](https://motion.dev/guides/performance)
+- [Motion One blog: Performance](https://motion.dev/guides/performance)
 
 ## Perfomance
- - [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/)
- - [Profiling site speed with the Chrome DevTools Performance tab](https://www.debugbear.com/blog/devtools-performance)
- - [CSS Tricks: links on performance](https://css-tricks.com/links-on-performance/)
+- [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/)
+- [Profiling site speed with the Chrome DevTools Performance tab](https://www.debugbear.com/blog/devtools-performance)
+- [CSS Tricks: links on performance](https://css-tricks.com/links-on-performance/)
 
 ## A11y
-  - [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
+- [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 
 ## Testing
-  - [CSS Tricks: Front-End Testing is For Everyone](https://css-tricks.com/front-end-testing-is-for-everyone/)
+- [CSS Tricks: Front-End Testing is For Everyone](https://css-tricks.com/front-end-testing-is-for-everyone/)
 
 ## Debug
-  - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
 ## Blogs
-  - [Список блогов с репозитория веб стандартов](https://github.com/web-standards-ru/indie-list)
-  - [JakeArchibald](https://jakearchibald.com/)
-  - [Zach Leatherman](https://www.zachleat.com/)
-  - [Дока](https://y-doka.site/)
-  - [Flavio Copes](https://flaviocopes.com/)
-  - https://vanillajsguides.com/
+- [Список блогов с репозитория веб стандартов](https://github.com/web-standards-ru/indie-list)
+- [JakeArchibald](https://jakearchibald.com/)
+- [Zach Leatherman](https://www.zachleat.com/)
+- [Дока](https://y-doka.site/)
+- [Flavio Copes](https://flaviocopes.com/)
+- https://vanillajsguides.com/
 
 ## Three.js 
- - [Creating 3D Characters in Three.js](https://tympanus.net/codrops/2021/10/04/creating-3d-characters-in-three-js/)
+- [Creating 3D Characters in Three.js](https://tympanus.net/codrops/2021/10/04/creating-3d-characters-in-three-js/)
 
 ## Other
-  - [Размеры разных девайсов](https://screensiz.es/)
-  - [Hexlet - Рекомендуемые книги](https://ru.hexlet.io/pages/recommended-books)
-  - [узнать стек технологий](https://www.wappalyzer.com/)
+- [Размеры разных девайсов](https://screensiz.es/)
+- [Hexlet - Рекомендуемые книги](https://ru.hexlet.io/pages/recommended-books)
+- [узнать стек технологий](https://www.wappalyzer.com/)
