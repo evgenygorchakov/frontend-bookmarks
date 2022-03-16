@@ -1,4 +1,4 @@
-# frontend bookmarks
+# frontend thinks
 
 [Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
 
@@ -118,6 +118,7 @@
 - [Дока](https://y-doka.site/)
 - [Flavio Copes](https://flaviocopes.com/)
 - https://vanillajsguides.com/
+- https://www.digitalocean.com/community
 
 ## Three.js 
 - [Creating 3D Characters in Three.js](https://tympanus.net/codrops/2021/10/04/creating-3d-characters-in-three-js/)
