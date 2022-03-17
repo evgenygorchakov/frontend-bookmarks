@@ -127,3 +127,4 @@
 - [Размеры разных девайсов](https://screensiz.es/)
 - [Hexlet - Рекомендуемые книги](https://ru.hexlet.io/pages/recommended-books)
 - [узнать стек технологий](https://www.wappalyzer.com/)
+- [2d visualization of npm](npm.anvaka.com)
