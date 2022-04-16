@@ -144,4 +144,9 @@
 - гайд по тайпскрипту https://nauchikus.github.io/typescript-definitive-guide/book/contents
 - блок норм чела - https://daveceddia.com/archives/
 - блог другого норм чела - https://www.robinwieruch.de/blog
-
+- Тринадцать полезных приёмов по работе с массивами в JavaScript —  https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo 
+- доступное бургерное меню
+https://justmarkup.com/articles/2019-12-04-hamburger-menu/#the-icon
+- математика для начинающих
+http://spacemath.xyz/ratsionalnye-chisla/
+- Введение в Regexp https://refrf.shreyasminocha.me/chapters/introduction
