@@ -28,6 +28,7 @@
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [wesbos.com](https://wesbos.com/javascript)
 - [learnjavascript.online](https://learnjavascript.online/)
+- [справочник операторов](https://joshwcomeau.com/operator-lookup/)
 
 ## Typescript
 - [Etsy’s Journey to TypeScript](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
@@ -128,3 +129,7 @@
 - [Hexlet - Рекомендуемые книги](https://ru.hexlet.io/pages/recommended-books)
 - [узнать стек технологий](https://www.wappalyzer.com/)
 - [2d visualization of npm](npm.anvaka.com)
+- [Тут](https://nucleoapp.com/tool/icon-transition) можно настраивать эффект перехода (scale или rotate), выбирать тип события, запускающего переход (click или hover). Этот инструмент генерирует единственный SVG-файл, содержащий описания обеих иконок и JavaScript-код, ответственный за выполнение перехода.
+- [можно ли вкладывать один тег в другой](https://caninclude.glitch.me/)
+- [подбор палитры для своего сайта](https://www.happyhues.co/)
+- [визуализатор](https://svg-path-visualizer.netlify.app/#M140%2020C73%2020%2020%2074%2020%20140c0%20135%20136%20170%20228%20303%2088-132%20229-173%20229-303%200-66-54-120-120-120-48%200-90%2028-109%2069-19-41-60-69-108-69z) путей svg
