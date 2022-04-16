@@ -133,3 +133,15 @@
 - [можно ли вкладывать один тег в другой](https://caninclude.glitch.me/)
 - [подбор палитры для своего сайта](https://www.happyhues.co/)
 - [визуализатор](https://svg-path-visualizer.netlify.app/#M140%2020C73%2020%2020%2074%2020%20140c0%20135%20136%20170%20228%20303%2088-132%20229-173%20229-303%200-66-54-120-120-120-48%200-90%2028-109%2069-19-41-60-69-108-69z) путей svg
+- Инструменты доступности для дизайнеров и разработчиков. Лиза Дзюба делится подборкой инструментов, помогающих автоматизировать работу с доступностью на сайтах и в приложениях — https://uxdesign.cc/accessibility-tools-for-designers-and-developers-ea400a415c0a
+- Современные решения для старых CSS-задач. Серия статей Стефани Эклз с практическими примерами вёрстки популярных в интерфейсах компонентов — https://moderncss.dev/icon-button-css-styling-guide/
+- UX/UI - https://www.nngroup.com/
+- шрифты - https://typedrawers.com/categories/technique
+- frontend журнал - https://increment.com/frontend/
+- книга фронтендера https://frontendmasters.com/books/front-end-handbook/2019/#2
+- Rough Notation, библиотека для добавления на страницу анимированных пометок в тексте в стиле «от руки» → https://roughnotation.com/
+- Как браузер рендерит страницы https://james-priest.github.io/udacity-nanodegree-mws/course-notes/browser-rendering-optimization.html
+- гайд по тайпскрипту https://nauchikus.github.io/typescript-definitive-guide/book/contents
+- блок норм чела - https://daveceddia.com/archives/
+- блог другого норм чела - https://www.robinwieruch.de/blog
+
