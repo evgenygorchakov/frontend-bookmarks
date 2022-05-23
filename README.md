@@ -1,6 +1,4 @@
-# frontend thinks
-
-[Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
+# frontend things
 
 ## HTML
 - [Мануэль Матузович делится шаблоном, с которого начинает вёрстку новых страниц, объясняя каждую его строчку.
@@ -29,6 +27,9 @@
 - [wesbos.com](https://wesbos.com/javascript)
 - [learnjavascript.online](https://learnjavascript.online/)
 - [справочник операторов](https://joshwcomeau.com/operator-lookup/)
+
+## Дизайн
+- [Боль фронтов, или что нам нужно от дизайнеров](https://habr.com/ru/post/541666/)
 
 ## Typescript
 - [Etsy’s Journey to TypeScript](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/)
